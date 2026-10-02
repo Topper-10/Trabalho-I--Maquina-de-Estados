@@ -43,4 +43,8 @@ Ferreiro
 Aquecendo metal (Calor: 120)
 Metal quente!
 Indo para a bigorna
-==============
+=============
+
+Grupo 8 
+Gabriel Pelisson Gonçalves de Lima
+Paulo Henrique Cavichiolo Franco Ferrari
